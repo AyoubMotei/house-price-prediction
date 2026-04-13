@@ -68,5 +68,5 @@ pip install catboost xgboost lightgbm scikit-learn pandas numpy matplotlib seabo
 ---
 
 ##  Résultats Obtenus
-L'intégration des techniques de traitement logarithmique, la création d'interactions (feature engineering), et l'ajustement scrupuleux des hyperparamètres d'un *Stacking Regressor* ont permis à ce pipeline de réduire drastiquement l'erreur logarithmique. L'ensemble produit une distribution prédictive extrêmement stable.
+L'intégration des techniques de traitement logarithmique, la création d'interactions (feature engineering), et l'ajustement scrupuleux des hyperparamètres d'un *Stacking Regressor* ont permis à ce pipeline de réduire drastiquement l'erreur logarithmique. 
 
