@@ -6,7 +6,7 @@ Ce projet a pour objectif ambitieux de prédire avec une haute précision les pr
 
 ---
 
-##  Structure Pédagogique et Approche (Methodology)
+##  Structure et Approche (Methodology)
 
 Le développement a été effectué de façon rigoureuse, étape par étape, tel que détaillé dans le notebook principal `Final_House_Prediction.ipynb` :
 
